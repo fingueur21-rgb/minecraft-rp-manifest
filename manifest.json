@@ -1,1 +1,97 @@
-
+{
+  "version": "1.0.0",
+  "minecraftVersion": "1.20.1",
+  "fabricVersion": "0.15.11",
+  "mods": [
+    {
+      "name": "Fabric API",
+      "filename": "fabric-api-0.86.1+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/XheZ9iGK/fabric-api-0.86.1%2B1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric"
+    },
+    {
+      "name": "Simple Voice Chat",
+      "filename": "voicechat-fabric-1.20.1-2.6.22.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/u5T0ji6n/voicechat-fabric-1.20.1-2.6.22.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric"
+    },
+    {
+      "name": "Emotecraft",
+      "filename": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/NFPdxMt9/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric"
+    },
+    {
+      "name": "3D Skin Layers",
+      "filename": "skinlayers3d-fabric-1.11.2-mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/ehuN4Oh0/skinlayers3d-fabric-1.11.2-mc1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric"
+    },
+    {
+      "name": "YetAnotherConfigLib",
+      "filename": "yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/dvS5DjUA/yet_another_config_lib_v3-3.6.6%2B1.20.1-fabric.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric"
+    },
+    {
+      "name": "Sound Physics Perfected",
+      "filename": "sound_physics_perfected-1.17.5+1.20.1-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/KS6Hbu9Z/versions/9WYoeMrI/sound_physics_perfected-1.17.5%2B1.20.1-fabric.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric"
+    },
+    {
+      "name": "",
+      "filename": "",
+      "url": ""
+    },
+    {
+      "name": "",
+      "filename": "",
+      "url": ""
+    },
+    {
+      "name": "",
+      "filename": "",
+      "url": ""
+    },
+    {
+      "name": "",
+      "filename": "",
+      "url": ""
+    },
+    {
+      "name": "",
+      "filename": "",
+      "url": ""
+    },
+    {
+      "name": "",
+      "filename": "",
+      "url": ""
+    },
+    {
+      "name": "",
+      "filename": "",
+      "url": ""
+    },
+    {
+      "name": "",
+      "filename": "",
+      "url": ""
+    },
+    {
+      "name": "",
+      "filename": "",
+      "url": ""
+    },
+    {
+      "name": "",
+      "filename": "",
+      "url": ""
+    },
+    {
+      "name": "",
+      "filename": "",
+      "url": ""
+    },
+    {
+      "name": "Lightmans Currency",
+      "filename": "lightmanscurrency-1.20.1-2.2.0.jar",
+      "url": "https://lien-direct-vers-ton-fichier/lightmanscurrency-1.20.1-2.2.0.jar"
+    }
+  ]
+}
