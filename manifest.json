@@ -34,6 +34,12 @@
       "sha256": "7A2389CA436EA8F7ABEE787D6373F9526DEECE5D06785F3623B7FE89BD9B31AC"
     },
     {
+      "name": "Redemption Title Mod",
+      "filename": "minecraft-rp-manifest-1.0.0",
+      "url": "https://github.com/fingueur21-rgb/minecraft-rp-manifest/archive/refs/tags/v1.0.0.zip"
+      "sha256": "C8D0AB081D7209F1EABC40DCFF86F6400D3C6CB20C4F2CA33662A933F2A8E5DD"
+    },
+    {
       "name": "Sound Physics Perfected",
       "filename": "sound_physics_perfected-1.17.5+1.20.1-fabric.jar",
       "url": "https://cdn.modrinth.com/data/KS6Hbu9Z/versions/9WYoeMrI/sound_physics_perfected-1.17.5%2B1.20.1-fabric.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric",
