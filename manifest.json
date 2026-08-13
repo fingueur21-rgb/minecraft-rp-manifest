@@ -6,32 +6,38 @@
     {
       "name": "Fabric API",
       "filename": "fabric-api-0.86.1+1.20.1.jar",
-      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/XheZ9iGK/fabric-api-0.86.1%2B1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric"
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/XheZ9iGK/fabric-api-0.86.1%2B1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric",
+      "sha256": "9F66387EBFEC1CC2B045D51F227760E43A61B93D4610B71FD6A3EBDAA8B9B76F",
     },
     {
       "name": "Simple Voice Chat",
       "filename": "voicechat-fabric-1.20.1-2.6.22.jar",
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/u5T0ji6n/voicechat-fabric-1.20.1-2.6.22.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric"
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/u5T0ji6n/voicechat-fabric-1.20.1-2.6.22.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric",
+      "sha256": "6A595AD90C3AB2CC9DFD25443AA404A7D18E91F84658D67123642DE959C7F7A9",
     },
     {
       "name": "Emotecraft",
       "filename": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
-      "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/NFPdxMt9/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric"
+      "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/NFPdxMt9/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric",
+      "sha256": "E8C5FC2D618008A0EF52728508909945315BB9BF99D78F1478EC42CEF502A4E0", 
     },
     {
       "name": "3D Skin Layers",
       "filename": "skinlayers3d-fabric-1.11.2-mc1.20.1.jar",
-      "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/ehuN4Oh0/skinlayers3d-fabric-1.11.2-mc1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric"
+      "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/ehuN4Oh0/skinlayers3d-fabric-1.11.2-mc1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric",
+      "sha256": "9F76E7018ECA0A20BB6C4F269D7192E14BEBA375F7FB9064425804D6FBDAAB96",
     },
     {
       "name": "YetAnotherConfigLib",
       "filename": "yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
-      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/dvS5DjUA/yet_another_config_lib_v3-3.6.6%2B1.20.1-fabric.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric"
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/dvS5DjUA/yet_another_config_lib_v3-3.6.6%2B1.20.1-fabric.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric",
+      "sha256": "7A2389CA436EA8F7ABEE787D6373F9526DEECE5D06785F3623B7FE89BD9B31AC",
     },
     {
       "name": "Sound Physics Perfected",
       "filename": "sound_physics_perfected-1.17.5+1.20.1-fabric.jar",
-      "url": "https://cdn.modrinth.com/data/KS6Hbu9Z/versions/9WYoeMrI/sound_physics_perfected-1.17.5%2B1.20.1-fabric.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric"
+      "url": "https://cdn.modrinth.com/data/KS6Hbu9Z/versions/9WYoeMrI/sound_physics_perfected-1.17.5%2B1.20.1-fabric.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric",
+      "sha256": "62DEC81FA6B37CC76775CA9462B4BE0AE80A4732FEABF06DF31CE58670DEFBF0",
     }
   ]
 }
