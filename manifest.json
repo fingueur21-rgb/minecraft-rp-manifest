@@ -35,9 +35,9 @@
     },
     {
       "name": "Redemption Title Mod",
-      "filename": "minecraft-rp-manifest-1.0.0",
-      "url": "https://github.com/fingueur21-rgb/minecraft-rp-manifest/archive/refs/tags/v1.0.0.zip",
-      "sha256": "C8D0AB081D7209F1EABC40DCFF86F6400D3C6CB20C4F2CA33662A933F2A8E5DD"
+      "filename": "redemption-title-mod-1.0.0.jar",
+      "url": "https://github.com/fingueur21-rgb/minecraft-rp-manifest/releases/download/v1.0.0/redemption-title-mod-1.0.0.jar",
+      "sha256": "c18686427d7024d98bd5fe56f555c7b67efe5c70f886902ced5ea6519fd3873e"
     },
     {
       "name": "Sound Physics Perfected",
