@@ -49,49 +49,49 @@
       "name": "Presence Footsteps",
       "filename": "PresenceFootsteps-1.10.1+1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/rcTfTZr3/versions/k0t6DSmw/PresenceFootsteps-1.10.1%2B1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric",
-      "sha256": ""
+      "sha256": "70F354E5ECD8993908601FCDFCB4E98F7B81F42192287282A5B86712E9A6BE95"
     },
     {
       "name": "Lightman's Currency",
       "filename": "lightmanscurrency_fabric-1.20.1-1.0.2.4.jar",
       "url": "https://cdn.modrinth.com/data/wvMc8AJt/versions/WUkt6f4K/lightmanscurrency_fabric-1.20.1-1.0.2.4.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric",
-      "sha256": ""
+      "sha256": "0EAF7EDC8FB78D659F9B57183B0F0E3523B17087AFE8C7A1D88AAF4A5C25C5FF"
     },
     {
       "name": "[Let's Do] Vinery",
       "filename": "letsdo-vinery-fabric-1.4.41.jar",
       "url": "https://cdn.modrinth.com/data/1DWmBJVA/versions/Xv8zHKzi/letsdo-vinery-fabric-1.4.41.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric",
-      "sha256": ""
+      "sha256": "D9A64EE64B2C618E6B4CA15963C1998D2EE20769B74784EA1081741BE58275AF"
     },
     {
       "name": "Architectury API",
       "filename": "architectury-9.2.14-fabric.jar",
       "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/WbL7MStR/architectury-9.2.14-fabric.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric",
-      "sha256": ""
+      "sha256": "BD7A7032BEDB2FF96C6991A846A44C857336A51442A105F5859017E8BA9D1321"
     },
     {
       "name": "[Let's Do] API",
       "filename": "letsdo-API-fabric-1.2.14-fabric.jar",
       "url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/UXpmGhse/letsdo-API-fabric-1.2.14-fabric.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric",
-      "sha256": ""
+      "sha256": "21E6D984FD0BB7187613F91C8094B1015E075565176D8F242E56AEA4F4FC66BE"
     },
     {
       "name": "[Let's Do] HerbalBrews",
       "filename": "letsdo-herbalbrews-fabric-1.0.12.jar",
       "url": "https://cdn.modrinth.com/data/Eh11TaTm/versions/txZ8qKXK/letsdo-herbalbrews-fabric-1.0.12.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric",
-      "sha256": ""
+      "sha256": "E3ED8151E25517A23AF8863ED0BBDD36E0E027BCCCAA1F4AC2D8CFBA0549279A"
     },
     {
       "name": "[Let's Do] Beachparty",
       "filename": "letsdo-beachparty-fabric-2.0.3.jar",
       "url": "https://cdn.modrinth.com/data/GyKzAh3l/versions/lTdx0SHO/letsdo-beachparty-fabric-2.0.3.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric",
-      "sha256": ""
+      "sha256": "2997630DC7DC158486ACC4906CCC3E19E781F23E5F4216E028683FF472EE9653"
     },
     {
       "name": "Trinkets",
       "filename": "trinkets-3.7.2.jar",
       "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/AHxQGtuC/trinkets-3.7.2.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric",
-      "sha256": ""
+      "sha256": "A6F11A4206C1285CD260A60D9BFE9CEFA9914D2190D08B3C52050F42044B53B3"
     }
   ]
 }
