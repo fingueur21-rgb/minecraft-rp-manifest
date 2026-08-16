@@ -7,8 +7,8 @@
       "name": "Fabric API",
       "filename": "fabric-api-0.92.2+1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/P7uGFii0/fabric-api-0.92.2%2B1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1",
-      "sha256": 4500F844C45573D039D68D3963C9885AA9DE7712670216E0AD3E5DF16C6770FC"
-    }
+      "sha256": "4500F844C45573D039D68D3963C9885AA9DE7712670216E0AD3E5DF16C6770FC"
+    },
     {
       "name": "Simple Voice Chat",
       "filename": "voicechat-fabric-1.20.1-2.6.22.jar",
@@ -37,7 +37,8 @@
       "name": "Redemption Title Mod",
       "filename": "redemption-title-mod-1.0.0.jar",
       "url": "https://github.com/fingueur21-rgb/minecraft-rp-manifest/releases/download/v1.0.0/redemption-title-mod-1.0.0.jar",
-      "sha256": "c18686427d7024d98bd5fe56f555c7b67efe5c70f886902ced5ea6519fd3873e"
+      "sha1": "6b5163caf92e3587ae4b8969452d87ebede66f1e",
+      "size": 7182
     },
     {
       "name": "Sound Physics Perfected",
